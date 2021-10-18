@@ -2,6 +2,10 @@
 ConvertGISEpanet es una herramienta desarrollada por el Grupo de Investigación REDHISP del Instituto Universitario de Investigación de Ingeniería del Agua y Medio Ambiente (IIAMA) de la Universitat Politècnica de Valencia (UPV), (Vegas, Santos-Tellez, Delgado-Galván, &amp; Alzamora, 2019). La programación ha estado a cargo del investigador Oscar T. Vegas Niño.
 Instrucciones de uso
 
+Licencia CC BY-NC-SA 4.0
+DOI: 10.13140/RG.2.2.24418.07361/1
+
+
 Para WINDOWS VISTA / 7 / 8
 --------------------------
 
